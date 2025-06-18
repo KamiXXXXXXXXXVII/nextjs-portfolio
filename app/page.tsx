@@ -7,7 +7,8 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Kaiming enthusiast and tab advocate, finding unmatched efficiency in
+        {`
+        I am kaiming recently owned this domain and want to try something cool.
         Vim's keystroke commands and tabs' flexibility for personal viewing
         preferences. This extends to my support for static typing, where its
         early error detection ensures cleaner code, and my preference for dark
